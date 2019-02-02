@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BoundServiceBinderPlayAudio</string>
+    <string name="play">play</string>
+    <string name="pause">pause</string>
+    <string name="stop">stop</string>
+    <string name="title">Maid with the flaxen hair</string>
+    <string name="author">Claude Debussy</string>
+    <string name="artist">Richard Stoltzman - Clarinet</string>
+    <string name="girl_image">girl image</string>
+</resources>
